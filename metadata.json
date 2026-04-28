@@ -1,0 +1,6 @@
+{
+  "name": "Üyz English Speaking Coach",
+  "description": "A production-grade mobile-first English speaking coach for adult and senior Turkish learners, featuring parallel stories, mind mapping, and AI feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Story Generation", "Bilingual Support", "Speech-to-Text Analysis", "Contextual Coaching"]
+}
